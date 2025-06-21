@@ -23,7 +23,7 @@ To get Focusly up and running on your Mac, you'll need Xcode (if building manual
 
 If you just want to try the app without building it yourself:
 
-👉 [Download Focusly for macOS (.zip)](https://github.com/nefritmahardika/Focusly/Focusly.zip)
+👉 [Download Focusly for macOS (.zip)](https://github.com/nefritmahardika/Focusly/blob/main/Focusly.zip)
 
 > Unzip and move `Focusly.app` to your `Applications` folder. You may need to allow the app in **System Settings > Privacy & Security** the first time it runs.
 
