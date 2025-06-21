@@ -11,21 +11,8 @@
 - **Focus & Break States**: Easily switch between focus sessions and short breaks.
 - **Visual State Indicators**: The menu bar icon changes to visually communicate whether you're focusing, on a break, or paused.
 
----
+<img width="469" alt="Screenshot 2025-06-22 at 03 04 56" src="https://github.com/user-attachments/assets/84257c35-c409-4e2f-8759-03e2d65e7d79" />
 
-## 🚀 Getting Started
-
-To get Focusly up and running on your Mac, you'll need Xcode (if building manually) or simply download the precompiled app below.
-
----
-
-## 📦 Download
-
-If you just want to try the app without building it yourself:
-
-👉 [Download Focusly for macOS (.zip)](https://github.com/nefritmahardika/Focusly/raw/main/Focusly.zip)
-
-> Unzip and move `Focusly.app` to your `Applications` folder. You may need to allow the app in **System Settings > Privacy & Security** the first time it runs.
 
 ---
 
