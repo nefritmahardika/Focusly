@@ -34,13 +34,6 @@ Once the app is running:
 
 ---
 
-## 🛠️ Customization
-
-- **Timer Durations**: Adjust `focusDuration` and `breakDuration` in `TimerViewModel.swift`.
-- **Menu Bar Icons**: Modify the `systemSymbolName` values in `AppDelegate.swift` within `updateMenuBarIcon()` to change SF Symbols.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
